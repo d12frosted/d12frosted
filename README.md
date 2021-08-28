@@ -1,3 +1,2 @@
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=d12frosted&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=d12frosted&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=d12frosted&theme=github)
+[![](https://raw.githubusercontent.com/d12frosted/d12frosted/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/d12frosted/d12frosted/master/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/d12frosted/d12frosted/master/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
