@@ -1,3 +1,3 @@
-[<img align="left" width="400" alt="🦑" src="https://github.com/d12frosted/d12frosted/blob/master/general.svg">](https://d12frosted.io)
-[<img align="right" width="400" alt="🦑" src="https://github.com/d12frosted/d12frosted/blob/master/languages.svg">](https://d12frosted.io)
-[<img align="right" width="400" alt="🦑" src="https://github.com/d12frosted/d12frosted/blob/master/blog.svg">](https://d12frosted.io)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=d12frosted&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=d12frosted&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=d12frosted&theme=github)
