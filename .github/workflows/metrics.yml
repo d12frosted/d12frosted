@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: d12frosted/github-profile-summary-cards@b50d2c74eed0827e11ec9542289c3619d6a55a34
+      - uses: d12frosted/github-profile-summary-cards@7d5ee0ad7fae14c02270761e5210e7cb864d64f0
         env:
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
         with:
