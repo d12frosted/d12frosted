@@ -2,8 +2,8 @@ name: metrics
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "0 * * * *"
+  # schedule:
+  #  - cron: "0 * * * *"
   push:
     branches:
       - master
@@ -13,8 +13,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
-          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
-        with:
-          USERNAME: ${{ github.repository_owner }}    
+      # - uses: vn7n24fzkq/github-profile-summary-cards@release
+      #   env:
+      #     GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+      #   with:
+      #     USERNAME: ${{ github.repository_owner }}    
