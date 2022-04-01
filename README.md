@@ -1,19 +1,14 @@
 This is definitely not a place to talk about politics. But since war affects my life and ability to contribute to open source, to maintain projects and to communicate with people asking for help, I feel obligated to say few things on this matter.
 
-I am in relative safety. I had to take my family and flee to the west of Ukraine. Every few hours I contact those dear to me who either decided to stay or could not move to the west. Yes, they are doing fine in basements, sometimes without electricity and internet connection, while russians are bombing our cities. Obviously, russian army sees a nationalist in every window.
+I am going to be even less responsive than usually. Yes, even less than usual low. This is the right time to jump in to help with maintenance of the project you would love to stay alive. Just send me an email or open an issue on GitHub and we'll figure that out.
 
-My internet connection is rather bad. So I am going to be even less responsive than usually. Yes, even less than low. This is the right time to jump in to help with maintenance of the project you would love to stay alive. Just send me an email or open an issue on GitHub and we'll figure that out.
+You can help in various ways. Our army is doing miracles while defending Ukraine, but it needs help in form of medicine and equipment (like walkie-talkie, bullet-proof vests, combat helmets, etc.). The most straight-forward way of help is donating money directly to Ukraine's Armed Forces (see extra section). If you wish to help civilians in hot areas, there are many volunteers helping them (by evacuation or humanitarian help), just contact me via email and we'll figure that out.
 
-You can help in various ways. Our army is doing miracles while defending us, but it needs help in form of medicine and equipment (like walkie-talkie, bullet-proof vests, combat helmets, etc.). The most straight-forward and the fastest way of help is donating money directly to Ukraine's Armed Forces (see extra section) or to volunteers like [Save Life][1]. In case you wish to send equipment or medicine, just contact me via email and we'll figure out how to make this delivery happen.
+Thank you all for support. I appreciate your kind words. I appreciate all the support Ukraine receives during this war.
 
-Thank you all for support. I appreciate your kind words. I appreciate all the support Ukraine receives in this war.
-
-To all russians and belorussians reading these lines. My feelings are complex, emotions are hard. I am angry, I am tried, I am scared. But in case you want to have a conversation on these events, just contact me. People are not government, ever person responds for their own deeds. So if you wish to have a conversion, I am here.
-
-P.S. Українська Правда (local news portal) has [English][3] and [Russian][4] versions - in case you wanted to have local perspective on what's happening.
-
-### Donate to Ukraine's Armed Forces
-
+<details>
+  <summary><b>Donate to Ukraine's Armed Forces</b></summary>
+  
 > The National Bank of Ukraine has decided to open a special fundraising account to support the Armed Forces of Ukraine. The central bank's decision comes after the Ukrainian government imposed martial law throughout Ukraine in response to armed aggression by Russia and the renewed threat to Ukraine's independence and territorial integrity. NBU Governor Kyrylo Shevchenko announced the opening of this special account in his 24 February video address. The number of the special account: UA843000010000000047330992708 This account accepts multiple currencies. It has been established and opened to receive transfers from international partners and donors in both foreign currency (U.S. dollars, euros, UK pounds) and hryvnias. Support the Armed Forces of Ukraine!
 
 #### Credit Cards from any country
@@ -123,6 +118,8 @@ Monobank created a simple way of donating by SEPA. Just visit [special page][2].
 - BENEFICIARY BANK BIC: BOTK JP JT
 - BENEFICIARY BANK ADDRESS: 1-2-3, Nihombashi HONGOKU-CHO, Chuo-ku, Tokyo 1003 -0021 Japan
 - PURPOSE OF PAYMENT: for crediting account 47330992708
+  
+</details> 
 
 [1]: https://savelife.in.ua/en/donate/
 [2]: https://uahelp.monobank.ua/
