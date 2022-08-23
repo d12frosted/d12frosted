@@ -1,127 +1,74 @@
+| [![](./img/file-text.svg) Blog](https://d12frosted.io/) | [![](./img/activity.svg) Barberry Garden](https://barberry.io/) | [![](./img/github.svg) GitHub](https://github.com/d12frosted) |
+|----------------------------------------------------------|-------------------------------------------------------------------|---------------------------------------------------------------|
+
+<br/>
+
+<details>
+<summary>
+<img src="./img/alert-triangle.svg"/>
+<b>Help Ukraine!</b>
+</summary>
+
 This is definitely not a place to talk about politics. But since war affects my life and ability to contribute to open source, to maintain projects and to communicate with people asking for help, I feel obligated to say few things on this matter.
 
 I am going to be even less responsive than usually. So this is the right time to jump in to help with maintenance of the project you would love to stay alive. Just send me an email or open an issue on GitHub and we'll figure that out.
 
-You can help in various ways. Our army is doing miracles while defending Ukraine, but it needs help in form of medicine and equipment (like walkie-talkie, bullet-proof vests, combat helmets, etc.). The most straight-forward way of help is donating money directly to Ukraine's Armed Forces (see extra section). If you wish to help civilians in hot areas, there are many volunteers helping them (by evacuation or humanitarian help), just contact me via email and we'll figure that out.
+You can help in various ways. Our army is doing miracles while defending Ukraine, but it needs help in form of medicine and equipment (like walkie-talkie, bullet-proof vests, combat helmets, etc.). The most straight-forward way of help is donating money directly to Ukraine's Armed Forces (see extra section). Or you can donate to [Come Back Alive][2] as they cover wide range of the needs. If you wish to help civilians in hot areas, there are many volunteers helping them (by evacuation or humanitarian help), just contact me via email and we'll figure that out.
 
 Thank you all for support. I appreciate your kind words. I appreciate all the support Ukraine receives during this war.
 
-<details>
-  <summary><b>Donate to Ukraine's Armed Forces</b></summary>
-  
+### Donate to Armed Forces of Ukraine
+
 > The National Bank of Ukraine has decided to open a special fundraising account to support the Armed Forces of Ukraine. The central bank's decision comes after the Ukrainian government imposed martial law throughout Ukraine in response to armed aggression by Russia and the renewed threat to Ukraine's independence and territorial integrity. NBU Governor Kyrylo Shevchenko announced the opening of this special account in his 24 February video address. The number of the special account: UA843000010000000047330992708 This account accepts multiple currencies. It has been established and opened to receive transfers from international partners and donors in both foreign currency (U.S. dollars, euros, UK pounds) and hryvnias. Support the Armed Forces of Ukraine!
 
 #### Credit Cards from any country
 
-Monobank created a simple way of donating by credit cards. Just visit [special page][2].
+Monobank created a simple way of donating by credit cards. Just visit [special page][1].
 
 #### SEPA for EUR and GBP
 
-Monobank created a simple way of donating by SEPA. Just visit [special page][2].
+Monobank created a simple way of donating by SEPA. Just visit [special page][1].
 
-#### For UAH remittances
+### Donate to Come Back Alive
 
-- Bank: National Bank of Ukraine
-- MFO: 300001
-- Account No.: UA843000010000000047330992708
-- EDRPOU Code: 00032106
-- Payee: National Bank of Ukraine
+Visit their [official site][2] to learn why and how you can help.
 
-#### For USD remittances
+</details>
 
-- BENEFICIARY: National Bank of Ukraine
-- BENEFICIARY BIC: NBUA UA UX
-- BENEFICIARY ADDRESS: 9 Instytutska St, Kyiv, 01601, Ukraine
-- ACCOUNT NUMBER: 400807238
-- BENEFICIARY BANK NAME: JP MORGAN CHASE BANK, New York
-- BENEFICIARY BANK BIC: CHASUS33
-- BENEFICIARY BANK ADDRESS: 383 Madison Avenue, New York, NY 10017, USA
-- PURPOSE OF PAYMENT: for crediting account 47330992708
+<details>
+<summary>
+<img src="./img/key.svg"/>
+<a href="https://keyoxide.org/877C9C4DF0583BA7FAD08B34F9EBF09436BCB50F">
+877C9C4DF0583BA7FAD08B34F9EBF09436BCB50F
+</a>
+</summary>
+<ul>
+<li>
+<a href="https://keyoxide.org/877C9C4DF0583BA7FAD08B34F9EBF09436BCB50F">Keyoxide</a>
+</li>
+<li>
+<a href="https://keys.openpgp.org/vks/v1/by-fingerprint/877C9C4DF0583BA7FAD08B34F9EBF09436BCB50F">OpenPGP</a>
+<pre>
+gpg --keyserver hkps://keys.openpgp.org \
+    --recv-key 877C9C4DF0583BA7FAD08B34F9EBF09436BCB50F
+</pre>
+</li>
+</ul>
+</details>
 
-#### For EUR remittances
+<details>
+<summary>
+<img src="./img/heart.svg"/>
+Consider <a href="https://d12frosted.io/projects.html">sponsoring</a> my work.
+</summary>
 
-- BENEFICIARY: National Bank of Ukraine
-- BENEFICIARY BIC: NBUA UA UX
-- BENEFICIARY ADDRESS: 9 Instytutska St, Kyiv, 01601, Ukraine
-- ACCOUNT NUMBER: 5040040066
-- IBAN: DE05504000005040040066
-- BENEFICIARY BANK NAME: DEUTSCHE BUNDESBANK, Frankfurt
-- BENEFICIARY BANK BIC: MARKDEFF
-- BENEFICIARY BANK ADDRESS: Wilhelm-Epsteinn-Strabe 14, 60431 Frankfurt Am Main, Germany
-- PURPOSE OF PAYMENT: for crediting account 47330992708
+<ul>
+<li><a href="https://www.patreon.com/d12frosted">Patreon</a></li>
+</ul>
 
-#### For GBP remittances
+(More options will come)
 
-- BENEFICIARY: National Bank of Ukraine
-- BENEFICIARY BIC: NBUA UA UX
-- BENEFICIARY ADDRESS: 9 Instytutska St, Kyiv, 01601, Ukraine
-- ACCOUNT NUMBER: 40000982
-- IBAN: GB52CHAS60924280033041
-- Sort code: 60-92-42
-- BENEFICIARY BANK NAME: JP MORGAN CHASE BANK NA, London
-- BENEFICIARY BANK BIC: CHASGB2L
-- BENEFICIARY BANK ADDRESS: 125 London Wall, London EC2Y 5AJ, UK
-- PURPOSE OF PAYMENT: for crediting account 47330992708
+</details>
 
-#### For CHF remittances
-
-- BENEFICIARY: National Bank of Ukraine
-- BENEFICIARY BIC: NBUA UA UX
-- BENEFICIARY ADDRESS: 9 Instytutska St, Kyiv, 01601, Ukraine
-- ACCOUNT NUMBER: 0700-01227572
-- IBAN: CH32 0070 0070 0012 2757 2
-- BENEFICIARY BANK NAME: ZURCHER KANTONALBANK, ZURICH
-- BENEFICIARY BANK BIC: ZKBKCHZZ80A
-- BENEFICIARY BANK ADDRESS: Josefstrasse 222, 8005 Zurich, Switzerland
-- PURPOSE OF PAYMENT: for crediting account 47330992708
-
-#### For AUD remittances
-
-- BENEFICIARY: National Bank of Ukraine
-- BENEFICIARY BIC: NBUA UA UX
-- BENEFICIARY ADDRESS: 9 Instytutska St, Kyiv, 01601, Ukraine
-- ACCOUNT NUMBER: 81753-2
-- BENEFICIARY BANK NAME: RESERVE BANK OF AUSTRALIA, Sydney
-- BENEFICIARY BANK BIC: RSBKAU2S
-- BENEFICIARY BANK ADDRESS: GPO Box 3947, Sydney NSW 2000, Australia
-- PURPOSE OF PAYMENT: for crediting account 47330992708
-
-#### For CNY remittances
-
-- BENEFICIARY: National Bank of Ukraine
-- BENEFICIARY BIC: NBUA UA UX
-- BENEFICIARY ADDRESS: 9 Instytutska St, Kyiv, 01601, Ukraine
-- ACCOUNT NUMBER: 447-0-946243-6
-- BENEFICIARY BANK NAME: STANDARD CHARTERED BANK, Hong Kong
-- BENEFICIARY BANK BIC: SCBLHKHH
-- BENEFICIARY BANK ADDRESS: GPO Box 21, Hong Kong
-- PURPOSE OF PAYMENT: for crediting account 47330992708
-
-#### For CAD remittances
-
-- BENEFICIARY: National Bank of Ukraine
-- BENEFICIARY BIC: NBUA UA UX
-- BENEFICIARY ADDRESS: 9 Instytutska St, Kyiv, 01601, Ukraine
-- ACCOUNT NUMBER: 3144-1044-166
-- BENEFICIARY BANK NAME: BANK OF MONTREAL, Toronto
-- BENEFICIARY BANK BIC: BOFMCAM2
-- BENEFICIARY BANK ADDRESS: 100 King Street West, 24th Floor, Toronto, Ontario, M5X 1A1, Canada
-- PURPOSE OF PAYMENT: for crediting account 47330992708
-
-#### For JPY remittances
-
-- BENEFICIARY: National Bank of Ukraine
-- BENEFICIARY BIC: NBUA UA UX
-- BENEFICIARY ADDRESS: 9 Instytutska St, Kyiv, 01601, Ukraine
-- ACCOUNT NUMBER: 653-0430048
-- BENEFICIARY BANK NAME: MUFG BANK LTD, Tokyo
-- BENEFICIARY BANK BIC: BOTK JP JT
-- BENEFICIARY BANK ADDRESS: 1-2-3, Nihombashi HONGOKU-CHO, Chuo-ku, Tokyo 1003 -0021 Japan
-- PURPOSE OF PAYMENT: for crediting account 47330992708
-  
-</details> 
-
-[1]: https://savelife.in.ua/en/donate/
-[2]: https://uahelp.monobank.ua/
-[3]: https://www.pravda.com.ua/eng/
-[4]: https://www.pravda.com.ua/rus/
+[1]: https://uahelp.monobank.ua/
+[2]: https://www.comebackalive.in.ua
