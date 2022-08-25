@@ -64,6 +64,7 @@ Consider <a href="https://d12frosted.io/projects.html">sponsoring</a> my work.
 
 <ul>
 <li><a href="https://www.patreon.com/d12frosted">Patreon</a></li>
+<li><a href="https://www.buymeacoffee.com/barberrygarden">Buy me a coffee</a></li>
 </ul>
 
 (More options will come)
