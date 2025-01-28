@@ -6,4 +6,4 @@
 - I share much of my Emacs journey on GitHub, alongside musings on my [technical blog](https://d12frosted.io). 
 - I also detail my experiences with wine and the various tasting events I partake in or organise on [🍇 Barberry Garden 🦄](https://barberry.io).
 
-If you appreciate my content, consider supporting me through [**Buy Me A Coffee**](https://www.buymeacoffee.com/barberrygarden) or [**Payoneer**](https://www.patreon.com/d12frosted).
+If you appreciate my content, consider supporting me through [**Payoneer**](https://www.patreon.com/d12frosted).
