@@ -1,9 +1,11 @@
-<p><pre align="center"><strong>Boris Buliga /</strong> <a href="https://d12frosted.io/">Technical Blog</a> / <a href="https://barberry.io/">Barberry Garden</a></pre></p>
+<p><pre align="center"><strong>Boris Buliga /</strong> <a href="https://d12frosted.io/">Technical Blog</a> / <a href="https://barberry.io/">Barberry Garden</a> / <a href="https://tasogare.ink/">Tasogare</a></pre></p>
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
 
-- I'm an engineering manager from Chișinău, Moldova; based in Kyiv, Ukraine. My time is often consumed by work, tinkering with Emacs, delving into the world of wine, and embarking on quests in [Final Fantasy XIV](https://www.finalfantasyxiv.com/) (or other video games). 
-- I share much of my Emacs journey on GitHub, alongside musings on my [technical blog](https://d12frosted.io). 
-- I also detail my experiences with wine and the various tasting events I partake in or organise on [🍇 Barberry Garden 🦄](https://barberry.io).
+I'm an engineering manager from Chișinău, Moldova, currently based in Kyiv, Ukraine.
 
-If you appreciate my content, consider supporting me through [**Pateron**](https://www.patreon.com/d12frosted).
+I spend most of my free time tinkering with Emacs. My [technical blog](https://d12frosted.io) is where I write about that journey — the tools I build, the problems I solve, and the occasional opinion I can't keep to myself. Most of my work ends up as open source here on GitHub.
+
+When I'm not in Emacs, I'm either exploring wine (documented on [Barberry Garden](https://barberry.io) — a personal wine database built with Emacs and org-mode, because of course it is), embarking on quests in [Final Fantasy XIV](https://www.finalfantasyxiv.com/), or writing about games, books, anime and movies on [Tasogare](https://tasogare.ink).
+
+If you appreciate my content, consider supporting me through [**Patreon**](https://www.patreon.com/d12frosted).
