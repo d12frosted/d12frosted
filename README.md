@@ -1,6 +1,7 @@
 <p><pre align="center"><strong>Boris Buliga /</strong> <a href="https://d12frosted.io/">Technical Blog</a> / <a href="https://barberry.io/">Barberry Garden</a> / <a href="https://tasogare.ink/">Tasogare</a></pre></p>
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
+<a href="https://github.com/sponsors/d12frosted"><img alt="Sponsor" src="https://img.shields.io/badge/Sponsor-d12frosted-pink?logo=githubsponsors&logoColor=white"/></a>
 
 I'm an engineering manager from Chișinău, Moldova, currently based in Kyiv, Ukraine.
 
